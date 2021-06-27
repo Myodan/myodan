@@ -1,10 +1,12 @@
 ### Statistics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=myodan&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=myodan&layout=compact&langs_count=8"/>
-</a>
+	<a href="https://github.com/myodan">
+		<img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=myodan&show_icons=true&include_all_commits=true&count_private=true"/>
+	</a>
+	<a href="https://wakatime.com/@myodan">
+		<img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=myodan&layout=compact&langs_count=8"/>
+	</a>
 </p>
 
 ### Connect with Me
